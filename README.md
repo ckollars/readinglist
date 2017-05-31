@@ -11,3 +11,9 @@ A listing of useful articles
 ## CSS
 * https://maintainablecss.com/
 * https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
+
+## React Learn
+* https://egghead.io/courses/getting-started-with-redux
+* https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+* https://www.udemy.com/react-redux/
+* https://www.udemy.com/react-flux/
