@@ -7,6 +7,7 @@ A listing of useful articles
 
 ## Workflows
 * http://javascriptplayground.com/blog/2017/04/react-typescript/
+* http://buildbettersoftware.com/trello-for-software-development
 
 ## CSS
 * https://maintainablecss.com/
@@ -17,3 +18,8 @@ A listing of useful articles
 * https://egghead.io/courses/building-react-applications-with-idiomatic-redux
 * https://www.udemy.com/react-redux/
 * https://www.udemy.com/react-flux/
+
+## General Web
+* https://css-tricks.com/future-front-end-web-development/
+* https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+* https://webkit.org/blog/7551/responsive-design-for-motion/
