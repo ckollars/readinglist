@@ -24,3 +24,4 @@ A listing of useful articles
 * https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
 * https://webkit.org/blog/7551/responsive-design-for-motion/
 * https://css-tricks.com/debugging-tips-tricks/
+* https://github.com/mattdesl/promise-cookbook
