@@ -20,7 +20,6 @@ A listing of useful articles
 * https://www.udemy.com/react-flux/
 
 ## General Web
-* https://css-tricks.com/future-front-end-web-development/
 * https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
 * https://webkit.org/blog/7551/responsive-design-for-motion/
 * https://css-tricks.com/debugging-tips-tricks/
