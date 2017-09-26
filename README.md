@@ -26,3 +26,7 @@ A listing of useful articles
 
 ## Watch
 - https://www.youtube.com/watch?v=v5r_n6Tq0uk
+
+## Webpack
+- https://github.com/webpack-contrib/url-loader
+- https://webpack.js.org/concepts/loaders/
